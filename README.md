@@ -1,1 +1,1 @@
-# Heart_Disease_EDA
+# Heart_Disease_Expolatory_Data_Analysis
